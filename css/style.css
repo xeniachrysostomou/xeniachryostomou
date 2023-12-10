@@ -1,0 +1,19 @@
+h1{
+	color:red;
+	background:black;
+}
+h2,h3{
+	color: yellow;
+	background:black;
+}
+h1,h2,h3{
+		text-align:center;
+
+}
+img{
+	margin:20px;
+}
+.size{
+	width:400px;
+	height:300px;
+}
